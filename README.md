@@ -1,4 +1,4 @@
-# -New-York-Jobs-CEO-Council-Financial-Analyst-Job-Simulation-Program
+# Forage Financial Analyst Job Simulation Program
 # Project Title:    Financial Analysis for Investment Decision
 
  # Description:   
